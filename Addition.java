@@ -2,9 +2,9 @@ public class Addition
 {
 public static void main(String args[])
 {
-char ch = 10;
-char bh = 20;
-Char dh = ch+bh;
-System.out.println(dh);
+int a = 10;
+int b = 20;
+int c = a+b;
+System.out.println(c);
 }
 }
